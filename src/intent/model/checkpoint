@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\inzentBJ\\Desktop\\dev\\chatbot\\izt_chatbot\\src\\intent/model/check_point-3000.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\inzentBJ\\Desktop\\dev\\chatbot\\izt_chatbot\\src\\intent/model/check_point-3000.ckpt"
